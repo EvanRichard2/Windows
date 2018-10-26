@@ -1,0 +1,64 @@
+firefox.exe	7152	TCP	DESKTOP-GRRCK98	49747	localhost	49748	ESTABLISHED										
+firefox.exe	7152	TCP	DESKTOP-GRRCK98	49748	localhost	49747	ESTABLISHED										
+firefox.exe	1508	TCP	DESKTOP-GRRCK98	49749	localhost	49750	ESTABLISHED										
+firefox.exe	1508	TCP	DESKTOP-GRRCK98	49750	localhost	49749	ESTABLISHED										
+firefox.exe	4168	TCP	DESKTOP-GRRCK98	49752	localhost	49753	ESTABLISHED										
+firefox.exe	4168	TCP	DESKTOP-GRRCK98	49753	localhost	49752	ESTABLISHED										
+firefox.exe	1332	TCP	DESKTOP-GRRCK98	49764	localhost	49765	ESTABLISHED										
+firefox.exe	1332	TCP	DESKTOP-GRRCK98	49765	localhost	49764	ESTABLISHED										
+lsass.exe	620	TCP	DESKTOP-GRRCK98	49677	DESKTOP-GRRCK98	0	LISTENING										
+lsass.exe	620	TCPV6	desktop-grrck98	49677	desktop-grrck98	0	LISTENING										
+SearchUI.exe	4848	TCP	desktop-grrck98.ksd.edu	49957	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4848	TCP	desktop-grrck98.ksd.edu	49958	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4848	TCP	desktop-grrck98.ksd.edu	49959	204.79.197.220	https	CLOSE_WAIT										
+services.exe	584	TCP	DESKTOP-GRRCK98	49673	DESKTOP-GRRCK98	0	LISTENING										
+services.exe	584	TCPV6	desktop-grrck98	49673	desktop-grrck98	0	LISTENING										
+spoolsv.exe	2008	TCP	DESKTOP-GRRCK98	49666	DESKTOP-GRRCK98	0	LISTENING										
+spoolsv.exe	2008	TCPV6	desktop-grrck98	49666	desktop-grrck98	0	LISTENING										
+svchost.exe	864	TCP	DESKTOP-GRRCK98	epmap	DESKTOP-GRRCK98	0	LISTENING										
+svchost.exe	4356	TCP	desktop-grrck98.ksd.edu	5040	DESKTOP-GRRCK98	0	LISTENING										
+svchost.exe	1200	TCP	DESKTOP-GRRCK98	49665	DESKTOP-GRRCK98	0	LISTENING										
+svchost.exe	1928	TCP	DESKTOP-GRRCK98	49667	DESKTOP-GRRCK98	0	LISTENING										
+svchost.exe	2456	TCP	desktop-grrck98.ksd.edu	49949	13.89.187.212	https	ESTABLISHED										
+svchost.exe	2456	TCP	desktop-grrck98.ksd.edu	49950	13.89.187.212	https	ESTABLISHED										
+svchost.exe	1232	TCP	DESKTOP-GRRCK98	ms-do	DESKTOP-GRRCK98	0	LISTENING										
+svchost.exe	6956	UDP	desktop-grrck98.ksd.edu	ssdp	*	*											
+svchost.exe	6956	UDP	DESKTOP-GRRCK98	ssdp	*	*											
+svchost.exe	3268	UDP	DESKTOP-GRRCK98	ws-discovery	*	*											
+svchost.exe	3228	UDP	DESKTOP-GRRCK98	ws-discovery	*	*											
+svchost.exe	3268	UDP	DESKTOP-GRRCK98	ws-discovery	*	*											
+svchost.exe	3228	UDP	DESKTOP-GRRCK98	ws-discovery	*	*											
+svchost.exe	4356	UDP	DESKTOP-GRRCK98	5050	*	*											
+svchost.exe	1824	UDP	DESKTOP-GRRCK98	5353	*	*											
+svchost.exe	1824	UDP	DESKTOP-GRRCK98	llmnr	*	*											
+svchost.exe	3228	UDP	DESKTOP-GRRCK98	60678	*	*											
+svchost.exe	3120	UDP	DESKTOP-GRRCK98	60873	*	*											
+svchost.exe	3268	UDP	DESKTOP-GRRCK98	60874	*	*											
+svchost.exe	6956	UDP	desktop-grrck98.ksd.edu	61291	*	*											
+svchost.exe	6956	UDP	DESKTOP-GRRCK98	61292	*	*											
+svchost.exe	1656	UDP	DESKTOP-GRRCK98	62978	*	*											
+svchost.exe	864	TCPV6	desktop-grrck98	epmap	desktop-grrck98	0	LISTENING										
+svchost.exe	1232	TCPV6	desktop-grrck98	ms-do	desktop-grrck98	0	LISTENING										
+svchost.exe	1200	TCPV6	desktop-grrck98	49665	desktop-grrck98	0	LISTENING										
+svchost.exe	1928	TCPV6	desktop-grrck98	49667	desktop-grrck98	0	LISTENING										
+svchost.exe	6956	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	6956	UDPV6	[fe80:0:0:0:483:9ea6:d8a2:b31a]	1900	*	*											
+svchost.exe	3228	UDPV6	desktop-grrck98	3702	*	*											
+svchost.exe	3268	UDPV6	desktop-grrck98	3702	*	*											
+svchost.exe	3268	UDPV6	desktop-grrck98	3702	*	*											
+svchost.exe	3228	UDPV6	desktop-grrck98	3702	*	*											
+svchost.exe	1824	UDPV6	desktop-grrck98	5353	*	*											
+svchost.exe	1824	UDPV6	desktop-grrck98	5355	*	*											
+svchost.exe	3228	UDPV6	desktop-grrck98	60679	*	*											
+svchost.exe	3268	UDPV6	desktop-grrck98	60875	*	*											
+svchost.exe	6956	UDPV6	[fe80:0:0:0:483:9ea6:d8a2:b31a]	61289	*	*											
+svchost.exe	6956	UDPV6	[0:0:0:0:0:0:0:1]	61290	*	*											
+System	4	TCP	desktop-grrck98.ksd.edu	netbios-ssn	DESKTOP-GRRCK98	0	LISTENING										
+System	4	TCP	DESKTOP-GRRCK98	microsoft-ds	DESKTOP-GRRCK98	0	LISTENING										
+System	4	TCP	DESKTOP-GRRCK98	wsd	DESKTOP-GRRCK98	0	LISTENING										
+System	4	UDP	desktop-grrck98.ksd.edu	netbios-ns	*	*											
+System	4	UDP	desktop-grrck98.ksd.edu	netbios-dgm	*	*											
+System	4	TCPV6	desktop-grrck98	microsoft-ds	desktop-grrck98	0	LISTENING										
+System	4	TCPV6	desktop-grrck98	wsd	desktop-grrck98	0	LISTENING										
+wininit.exe	476	TCP	DESKTOP-GRRCK98	49664	DESKTOP-GRRCK98	0	LISTENING										
+wininit.exe	476	TCPV6	desktop-grrck98	49664	desktop-grrck98	0	LISTENING										

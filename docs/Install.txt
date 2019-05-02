@@ -1,0 +1,31 @@
+1. Install - https://www.cygwin.com/setup-x86_64.exe
+
+    Use Next Until "Choose A Download Site"
+
+2. Use http://cygwin.osuosl.org
+
+    When Selecting Packages Get:
+    
+        cygwin32-gcc-g++
+        gcc-g++
+        mingw64-x86_64-gcc-g++
+        mingw64-x86_64-libsigc++2.0
+
+3. Run Cygwin (After Restart)
+
+    Test c++ and g++ Of Compiling Code
+
+4. Getting To Use PowerShell
+
+    Find Environment Variables (In Windows)
+    Edit The Users Path 
+    Add A Line To Point to Cygwin Directory
+    (Default C:\cygwin64\bin)
+
+5. Reboot
+
+    PowerShell Should Be Able To Use c++ and g++
+
+
+
+
